@@ -1,4 +1,4 @@
-![logo](https://github.com/BharatSai67/Bharat-Sai/blob/main/Banner.png)
+![logo](https://github.com/BharatSai67/BharatSai67/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Satti Bharat Sai Naga Babu</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
